@@ -50,18 +50,5 @@
         "img":"https://static.wikia.nocookie.net/onepiece/images/9/92/Usopp_Anime_Dos_A%C3%B1os_Despu%C3%A9s_Infobox.png/revision/latest?cb=20160919181926&path-prefix=es",
         "age":"19",
         "size":"176cm"
-    },
-    {
-        "id":5,
-        "name":"Vinsmoke Sanji",
-        "epithet":"Pierna Negra",
-        "job":"Cocinero",
-        "birthday":"02/03",
-        "fruit":null,
-        "kindFruit":null,
-        "bounty":"1.032.000.000",
-        "img":"https://static.wikia.nocookie.net/onepiece/images/6/66/Sanji_Anime_Dos_A%C3%B1os_Despu%C3%A9s_Infobox.png/revision/latest?cb=20191029181107&path-prefix=es",
-        "age":"21",
-        "size":"180cm"
     }
 ]
